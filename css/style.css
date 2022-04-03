@@ -1,0 +1,48 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    width: auto;
+}
+
+.container{
+    width: auto;
+    margin: 10px;
+    float: center
+}
+
+.box1{
+    width: auto;
+    height: auto;
+    background-color: #222426;
+    text-align: center;
+    padding: 10px;
+    float: center;
+    margin: 3px;
+
+}
+.box2{
+    width: 34%;
+    height: 100px;
+    background-color: #67ebdd;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    margin: 2px
+}
+
+.box3{
+    width: 26%;
+    height: 100px;
+    background-color: #3e817b;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    margin: 2px
+    
+}
+
+.clear{
+    clear:both
+}
